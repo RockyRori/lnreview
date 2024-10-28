@@ -1,6 +1,11 @@
 # lnreview
 ln course review
 
+# Referencing & Citation Style
+https://www.library.ln.edu.hk/en/research/publish/citation
+
+https://pla.ln.edu.hk/
+
 # Blockchain
 None
 
@@ -9,6 +14,7 @@ None
 
 # Database Management
 Unary Relational Operations
+
 Binary Relational Operations
 
 # Programming for Data Science
